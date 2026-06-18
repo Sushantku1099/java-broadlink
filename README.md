@@ -439,3 +439,17 @@ MIT — see [LICENSE](LICENSE)
 
 **Author:** [Sushant Sagar](https://github.com/Sushantku1099)  
 Based on [node-broadlink](https://github.com/ThomasTavernier/node-broadlink) by Thomas Tavernier and [python-broadlink](https://github.com/mjg59/python-broadlink) by Matthew Garrett.
+
+---
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.sushantku1099/java-broadlink)](https://central.sonatype.com/artifact/io.github.sushantku1099/java-broadlink)
+
+## Maven Central
+
+```xml
+<dependency>
+    <groupId>io.github.sushantku1099</groupId>
+    <artifactId>java-broadlink</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
